@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 279499334
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: music
+      Dependencies: {}
+    Info_1:
+      Name: prefab
+      Dependencies: {}
